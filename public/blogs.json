@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "title": "The Mystery of the Lost Treasure",
+      "cover": "https://i.ibb.co/nfV0m9S/clark-tibbs-oq-Stl2-L5ox-I-unsplash.jpg",
+      "author": {
+        "name": "Emily Johnson",
+        "author_img": "https://example.com/authors/emily.jpg"
+      },
+      "posted_date": "2024-05-01",
+      "reading_time": 29,
+      "hashtags": ["mystery", "adventure", "treasure"]
+    },
+    {
+      "id": 2,
+      "title": "Cooking Adventures: A Culinary Journey",
+      "cover": "https://i.ibb.co/YQqPdVb/greg-rakozy-o-Mp-Az-DN-9-I-unsplash.jpg",
+      "author": {
+        "name": "Michael Smith",
+        "author_img": "https://example.com/authors/michael.jpg"
+    },
+      "posted_date": "2024-04-28",
+      "reading_time":26,
+      "hashtags": ["cooking", "recipes", "food"]
+    },
+    {
+      "id": 3,
+      "title": "Into the Wild: Exploring Nature's Wonders",
+      "cover": "https://i.ibb.co/1TgmP3s/thought-catalog-505eect-W54k-unsplash.jpg",
+      "author": {
+        "name": "Sophia Lee",
+        "author_img": "https://example.com/authors/michael.jpg"
+    },
+      "posted_date": "2024-04-25",
+      "reading_time":20,
+      "hashtags": ["nature", "wildlife", "adventure"]
+    },
+    {
+      "id": 4,
+      "title": "Tech Trends: Innovations Shaping the Future",
+      "cover": "https://i.ibb.co/QQWTB2M/patrick-tomasso-Oaqk7qq-Nh-c-unsplash.jpg",
+      "author": {
+        "name": "David Wilson",
+        "author_img": "https://example.com/authors/michael.jpg"
+    },
+      "posted_date": "2024-04-20",
+      "reading_time": 40 ,
+      "hashtags": ["technology", "innovation", "future"]
+    },
+    {
+      "id": 5,
+      "title": "The Art of Mindfulness: Finding Peace Within",
+      "cover": "https://i.ibb.co/c29T52D/glenn-carstens-peters-npx-XWg-Q33-ZQ-unsplash.jpg",
+      "author": {
+        "name": "Olivia Brown",
+        "author_img": "https://example.com/authors/michael.jpg"
+    },
+      "posted_date": "2024-04-15",
+      "reading_time": 25,
+      "hashtags": ["mindfulness", "meditation", "wellness"]
+    }
+  ]
+  
